@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\works\12152020_HastaTakip\P2_Donaným\trunk\PCB_15122020_01BC\pcb\PCB_15122020_01BC.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb_15122020_01bc-roundholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=pcb_15122020_01bc-slotholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb_15122020_01bc-roundholes-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl

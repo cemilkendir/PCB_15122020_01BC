@@ -1,0 +1,64 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_15122020_01BC.PcbDoc   3.08.2021  04:27:24
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PCB_15122020_01BC-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : PCB_15122020_01BC-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : PCB_15122020_01BC-SlotHoles-Plated.TXT
+EIA File   : PCB_15122020_01BC.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             1697      PTH        0.00mm (0.00inch)
+T2      0.7mm (28mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T3      0.7mm (28mil)                                             Slot              4         PTH        0.00mm (0.00inch)
+T4      0.8mm (31mil)                                             Round             26        PTH        0.00mm (0.00inch)
+T5      0.89mm (35mil)                                            Round             10        PTH        0.00mm (0.00inch)
+T6      0.9mm (35mil)                                             Slot              3         PTH        0.00mm (0.00inch)
+T7      0.92mm (36mil)                                            Round             8         PTH        0.00mm (0.00inch)
+T8      1mm (39mil)                                               Round             32        PTH        0.00mm (0.00inch)
+T9      1mm (39mil)                                               Slot              4         PTH        0.00mm (0.00inch)
+T10     1.02mm (40mil)                                            Round             80        PTH        0.00mm (0.00inch)
+T11     1.1mm (43mil)                                             Round             132       PTH        0.00mm (0.00inch)
+T12     1.3mm (51mil)                                             Round             25        PTH        0.00mm (0.00inch)
+T13     1.7mm (67mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T14     2.3mm (91mil)                                             Round             4         PTH        0.00mm (0.00inch)
+T15     3.5mm (138mil)                                            Round             3         PTH        0.00mm (0.00inch)
+T16     3.2mm (126mil)                                            Round             2         NPTH       0.00mm (0.00inch)
+T17     3.7mm (146mil)                                            Round             4         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2038
+
+Two holes at same point : 28
+-----------------------
+1852,3626
+1852,3726
+1852,3826
+1852,3926
+1972,3926
+1972,3826
+1972,3726
+1972,3626
+2745,3580
+2745,3480
+2745,3380
+2745,3280
+6038,4331
+5938,4331
+5838,4331
+5838,4496
+5938,4496
+6038,4496
+5738,4496
+5590,4496
+5490,4496
+5390,4496
+5290,4496
+5290,4331
+5390,4331
+5490,4331
+5590,4331
+5738,4331
+
+Total Processing Time (hh:mm:ss) : 00:00:04

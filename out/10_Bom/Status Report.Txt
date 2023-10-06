@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 22:08:31 On 9.08.2021
+
+Output: BOM
+Type  : BOM
+From  : Variant [BA] of Project [PCB_15122020_01BC.PrjPcb]
+   Generated File[BOM_15122020_01BC_BA.xls]
+   Generated File[BOM_15122020_01BC_BA.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 22:08:40 On 9.08.2021

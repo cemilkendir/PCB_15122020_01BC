@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [PCB_15122020_01BC.PcbDoc]
+   Generated File[Fabrication Testpoint Report for PCB_15122020_01BC.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 04:27:33 On 3.08.2021

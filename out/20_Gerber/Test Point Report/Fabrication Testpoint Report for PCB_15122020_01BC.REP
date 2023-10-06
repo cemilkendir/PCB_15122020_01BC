@@ -1,0 +1,1765 @@
+Error Report for  - Users\CemilSuheyla\AppData\Local\Temp\ProD326.tmp
+3.08.2021 04:27:28
+
+Warning arcs were not exported.
+
+Component Designator IC30_RS232_8 too long.
+Component Designator IC29_RS232_8 too long.
+Component Designator IC30_RS232_7 too long.
+Component Designator IC29_RS232_7 too long.
+Component Designator IC30_RS232_6 too long.
+Component Designator IC29_RS232_6 too long.
+Component Designator IC30_RS232_5 too long.
+Component Designator IC29_RS232_5 too long.
+Component Designator IC30_RS232_4 too long.
+Component Designator IC29_RS232_4 too long.
+Component Designator IC30_RS232_3 too long.
+Component Designator IC29_RS232_3 too long.
+Component Designator IC30_RS232_2 too long.
+Component Designator IC29_RS232_2 too long.
+Component Designator IC30_RS232_1 too long.
+Component Designator IC29_RS232_1 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Warning pad shape change for IC25-36 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC3-3 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Warning pad shape change for IC27-36 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC9-7 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-12 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-11 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R56_RS232_8 too long.
+Component Designator C55_RS232_8 too long.
+Component Designator R69_RS232_8 too long.
+Component Designator C120_RS232_8 too long.
+Component Designator R90_RS232_8 too long.
+Component Designator R56_RS232_7 too long.
+Component Designator C55_RS232_7 too long.
+Component Designator R69_RS232_7 too long.
+Component Designator C120_RS232_7 too long.
+Component Designator R90_RS232_7 too long.
+Component Designator R56_RS232_6 too long.
+Component Designator C55_RS232_6 too long.
+Component Designator R69_RS232_6 too long.
+Component Designator C120_RS232_6 too long.
+Component Designator R90_RS232_6 too long.
+Component Designator R56_RS232_5 too long.
+Component Designator C55_RS232_5 too long.
+Component Designator R69_RS232_5 too long.
+Component Designator C120_RS232_5 too long.
+Component Designator R90_RS232_5 too long.
+Component Designator R56_RS232_4 too long.
+Component Designator C55_RS232_4 too long.
+Component Designator R69_RS232_4 too long.
+Component Designator C120_RS232_4 too long.
+Component Designator R90_RS232_4 too long.
+Component Designator R56_RS232_3 too long.
+Component Designator C55_RS232_3 too long.
+Component Designator R69_RS232_3 too long.
+Component Designator C120_RS232_3 too long.
+Component Designator R90_RS232_3 too long.
+Component Designator R56_RS232_2 too long.
+Component Designator C55_RS232_2 too long.
+Component Designator R69_RS232_2 too long.
+Component Designator C120_RS232_2 too long.
+Component Designator R90_RS232_2 too long.
+Component Designator R56_RS232_1 too long.
+Component Designator C55_RS232_1 too long.
+Component Designator R69_RS232_1 too long.
+Component Designator C120_RS232_1 too long.
+Component Designator R90_RS232_1 too long.
+Warning pad shape change for IC25-20 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-31 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-42 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-50 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-56 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC3-8 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Warning pad shape change for IC27-56 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-50 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-42 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-31 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-20 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC23-10 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC24-10 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC7-2 from  to rectangular 0.85mm,0.27mm
+Component Designator IC31_RS232_8 too long.
+Component Designator IC31_RS232_7 too long.
+Component Designator IC31_RS232_6 too long.
+Component Designator IC31_RS232_5 too long.
+Component Designator IC31_RS232_4 too long.
+Component Designator IC31_RS232_3 too long.
+Component Designator IC31_RS232_2 too long.
+Component Designator IC31_RS232_1 too long.
+Component Designator C38_RS232_8 too long.
+Component Designator C38_RS232_7 too long.
+Component Designator C38_RS232_6 too long.
+Component Designator C38_RS232_5 too long.
+Component Designator C38_RS232_4 too long.
+Component Designator C38_RS232_3 too long.
+Component Designator C38_RS232_2 too long.
+Component Designator C38_RS232_1 too long.
+Pad name Shell too long.
+Pad name Shell too long.
+Pad name Shell too long.
+Pad name Shell too long.
+Pad name Shell too long.
+Pad name Shell too long.
+Warning pad shape change for IC25-62 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-63 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-61 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-62 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-63 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-61 from  to rectangular 1.28mm,0.28mm
+Component Designator IC31_RS232_8 too long.
+Component Designator IC31_RS232_7 too long.
+Component Designator IC31_RS232_6 too long.
+Component Designator IC31_RS232_5 too long.
+Component Designator IC31_RS232_4 too long.
+Component Designator IC31_RS232_3 too long.
+Component Designator IC31_RS232_2 too long.
+Component Designator IC31_RS232_1 too long.
+Warning pad shape change for IC23-9 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC24-9 from  to rectangular 1.1mm,0.3mm
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator C38_RS232_8 too long.
+Component Designator R57_RS232_8 too long.
+Component Designator C55_RS232_8 too long.
+Component Designator C120_RS232_8 too long.
+Component Designator C38_RS232_7 too long.
+Component Designator R57_RS232_7 too long.
+Component Designator C55_RS232_7 too long.
+Component Designator C120_RS232_7 too long.
+Component Designator C38_RS232_6 too long.
+Component Designator R57_RS232_6 too long.
+Component Designator C55_RS232_6 too long.
+Component Designator C120_RS232_6 too long.
+Component Designator C38_RS232_5 too long.
+Component Designator R57_RS232_5 too long.
+Component Designator C55_RS232_5 too long.
+Component Designator C120_RS232_5 too long.
+Component Designator C38_RS232_4 too long.
+Component Designator R57_RS232_4 too long.
+Component Designator C55_RS232_4 too long.
+Component Designator C120_RS232_4 too long.
+Component Designator C38_RS232_3 too long.
+Component Designator R57_RS232_3 too long.
+Component Designator C55_RS232_3 too long.
+Component Designator C120_RS232_3 too long.
+Component Designator C38_RS232_2 too long.
+Component Designator R57_RS232_2 too long.
+Component Designator C55_RS232_2 too long.
+Component Designator C120_RS232_2 too long.
+Component Designator C38_RS232_1 too long.
+Component Designator R57_RS232_1 too long.
+Component Designator C55_RS232_1 too long.
+Component Designator C120_RS232_1 too long.
+Warning pad shape change for IC25-1 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-5 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-10 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-11 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-13 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-15 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-25 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-35 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-47 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-51 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC3-4 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Warning pad shape change for IC3-7 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Warning pad shape change for IC3-6 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Warning pad shape change for IC3-5 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Warning pad shape change for IC27-51 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-47 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-35 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-25 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-15 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-13 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-11 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-10 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-5 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-1 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC23-5 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC24-5 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC7-1 from  to rectangular 0.85mm,0.27mm
+Warning pad shape change for IC7-4 from  to rectangular 0.85mm,0.27mm
+Warning pad shape change for IC3-2 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Warning pad shape change for IC7-3 from  to rectangular 0.85mm,0.27mm
+Warning pad shape change for IC9-5 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-6 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-2 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-3 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-4 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-14 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-13 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-15 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-16 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-8 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC9-10 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Warning pad shape change for IC7-8 from  to rectangular 0.85mm,0.27mm
+Warning pad shape change for IC7-7 from  to rectangular 0.85mm,0.27mm
+Component Designator IC14_RS232_1 too long.
+Component Designator C46_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator C46_RS232_1 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator C46_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator C46_RS232_2 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator C46_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator C46_RS232_3 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator C46_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator C46_RS232_4 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator C46_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator C46_RS232_5 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator C46_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator C46_RS232_6 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator C46_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator C46_RS232_7 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator C46_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator C46_RS232_8 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator C47_RS232_1 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator C47_RS232_2 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator C47_RS232_3 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator C47_RS232_4 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator C47_RS232_5 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator C47_RS232_6 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator C47_RS232_7 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator C47_RS232_8 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator C48_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator C48_RS232_1 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator C48_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator C48_RS232_2 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator C48_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator C48_RS232_3 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator C48_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator C48_RS232_4 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator C48_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator C48_RS232_5 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator C48_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator C48_RS232_6 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator C48_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator C48_RS232_7 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator C48_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator C48_RS232_8 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator C49_RS232_1 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator C49_RS232_2 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator C49_RS232_3 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator C49_RS232_4 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator C49_RS232_5 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator C49_RS232_6 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator C49_RS232_7 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator C49_RS232_8 too long.
+Warning pad shape change for IC25-4 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-9 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-12 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-37 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-49 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-64 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-4 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-9 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-64 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-49 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-37 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-12 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC9-9 from rounded 2.5mm,1.2mm to rectangular 1.3mm,1.2mm
+Component Designator R66_RS232_1 too long.
+Component Designator FR9_RS232_1 too long.
+Component Designator FR9_RS232_2 too long.
+Component Designator R66_RS232_2 too long.
+Component Designator R66_RS232_3 too long.
+Component Designator FR9_RS232_3 too long.
+Component Designator FR9_RS232_4 too long.
+Component Designator R66_RS232_4 too long.
+Component Designator FR9_RS232_5 too long.
+Component Designator R66_RS232_5 too long.
+Component Designator FR9_RS232_6 too long.
+Component Designator R66_RS232_6 too long.
+Component Designator FR9_RS232_7 too long.
+Component Designator R66_RS232_7 too long.
+Component Designator FR9_RS232_8 too long.
+Component Designator R66_RS232_8 too long.
+Component Designator R67_RS232_1 too long.
+Component Designator FR10_RS232_1 too long.
+Component Designator FR10_RS232_2 too long.
+Component Designator R67_RS232_2 too long.
+Component Designator FR10_RS232_3 too long.
+Component Designator R67_RS232_3 too long.
+Component Designator FR10_RS232_4 too long.
+Component Designator R67_RS232_4 too long.
+Component Designator FR10_RS232_5 too long.
+Component Designator R67_RS232_5 too long.
+Component Designator FR10_RS232_6 too long.
+Component Designator R67_RS232_6 too long.
+Component Designator FR10_RS232_7 too long.
+Component Designator R67_RS232_7 too long.
+Component Designator R67_RS232_8 too long.
+Component Designator FR10_RS232_8 too long.
+Component Designator R67_RS232_1 too long.
+Component Designator IC15_RS232_1 too long.
+Warning pad shape change for IC15_RS232_1-6 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R65_RS232_1 too long.
+Component Designator R70_RS232_1 too long.
+Component Designator R66_RS232_1 too long.
+Component Designator IC15_RS232_1 too long.
+Warning pad shape change for IC15_RS232_1-7 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_1 too long.
+Component Designator R65_RS232_1 too long.
+Component Designator R67_RS232_2 too long.
+Component Designator IC15_RS232_2 too long.
+Warning pad shape change for IC15_RS232_2-6 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R65_RS232_2 too long.
+Component Designator R70_RS232_2 too long.
+Component Designator R66_RS232_2 too long.
+Component Designator IC15_RS232_2 too long.
+Warning pad shape change for IC15_RS232_2-7 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_2 too long.
+Component Designator R65_RS232_2 too long.
+Component Designator R67_RS232_3 too long.
+Component Designator IC15_RS232_3 too long.
+Warning pad shape change for IC15_RS232_3-6 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R65_RS232_3 too long.
+Component Designator R70_RS232_3 too long.
+Component Designator R66_RS232_3 too long.
+Component Designator IC15_RS232_3 too long.
+Warning pad shape change for IC15_RS232_3-7 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_3 too long.
+Component Designator R65_RS232_3 too long.
+Component Designator R67_RS232_4 too long.
+Component Designator IC15_RS232_4 too long.
+Warning pad shape change for IC15_RS232_4-6 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R65_RS232_4 too long.
+Component Designator R70_RS232_4 too long.
+Component Designator R66_RS232_4 too long.
+Component Designator IC15_RS232_4 too long.
+Warning pad shape change for IC15_RS232_4-7 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_4 too long.
+Component Designator R65_RS232_4 too long.
+Component Designator R67_RS232_5 too long.
+Component Designator IC15_RS232_5 too long.
+Warning pad shape change for IC15_RS232_5-6 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R65_RS232_5 too long.
+Component Designator R70_RS232_5 too long.
+Component Designator R66_RS232_5 too long.
+Component Designator IC15_RS232_5 too long.
+Warning pad shape change for IC15_RS232_5-7 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_5 too long.
+Component Designator R65_RS232_5 too long.
+Component Designator R67_RS232_6 too long.
+Component Designator IC15_RS232_6 too long.
+Warning pad shape change for IC15_RS232_6-6 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R65_RS232_6 too long.
+Component Designator R70_RS232_6 too long.
+Component Designator R66_RS232_6 too long.
+Component Designator IC15_RS232_6 too long.
+Warning pad shape change for IC15_RS232_6-7 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_6 too long.
+Component Designator R65_RS232_6 too long.
+Component Designator R67_RS232_7 too long.
+Component Designator IC15_RS232_7 too long.
+Warning pad shape change for IC15_RS232_7-6 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R65_RS232_7 too long.
+Component Designator R70_RS232_7 too long.
+Component Designator R66_RS232_7 too long.
+Component Designator IC15_RS232_7 too long.
+Warning pad shape change for IC15_RS232_7-7 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_7 too long.
+Component Designator R65_RS232_7 too long.
+Component Designator R67_RS232_8 too long.
+Component Designator IC15_RS232_8 too long.
+Warning pad shape change for IC15_RS232_8-6 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R65_RS232_8 too long.
+Component Designator R70_RS232_8 too long.
+Component Designator R66_RS232_8 too long.
+Component Designator IC15_RS232_8 too long.
+Warning pad shape change for IC15_RS232_8-7 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_8 too long.
+Component Designator R65_RS232_8 too long.
+Warning pad shape change for IC23-1 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC25-6 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-14 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-16 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-17 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-18 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-19 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-21 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-22 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-23 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-24 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-26 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-27 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-28 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-29 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-30 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-32 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-33 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-34 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-38 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-39 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-40 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-41 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-43 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-44 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-45 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-46 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-48 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-52 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-53 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-54 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-55 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-57 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-58 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC25-59 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-6 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-14 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-16 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-17 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-18 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-19 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-21 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-22 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-23 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-24 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-26 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-27 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-28 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-29 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-30 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-32 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-33 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-34 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-38 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-39 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-40 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-41 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-43 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-44 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-45 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-46 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-48 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-52 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-53 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-54 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-55 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-57 from  to rectangular 1.28mm,0.28mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-58 from  to rectangular 1.28mm,0.28mm
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Warning pad shape change for IC27-59 from  to rectangular 1.28mm,0.28mm
+Component Designator IC29_RS232_1 too long.
+Component Designator R55_RS232_1 too long.
+Component Designator IC29_RS232_2 too long.
+Component Designator R55_RS232_2 too long.
+Component Designator IC29_RS232_3 too long.
+Component Designator R55_RS232_3 too long.
+Component Designator IC29_RS232_4 too long.
+Component Designator R55_RS232_4 too long.
+Component Designator IC29_RS232_5 too long.
+Component Designator R55_RS232_5 too long.
+Component Designator IC29_RS232_6 too long.
+Component Designator R55_RS232_6 too long.
+Component Designator IC29_RS232_7 too long.
+Component Designator R55_RS232_7 too long.
+Component Designator IC29_RS232_8 too long.
+Component Designator R55_RS232_8 too long.
+Component Designator IC30_RS232_1 too long.
+Component Designator R62_RS232_1 too long.
+Component Designator IC30_RS232_2 too long.
+Component Designator R62_RS232_2 too long.
+Component Designator IC30_RS232_3 too long.
+Component Designator R62_RS232_3 too long.
+Component Designator IC30_RS232_4 too long.
+Component Designator R62_RS232_4 too long.
+Component Designator IC30_RS232_5 too long.
+Component Designator R62_RS232_5 too long.
+Component Designator IC30_RS232_6 too long.
+Component Designator R62_RS232_6 too long.
+Component Designator IC30_RS232_7 too long.
+Component Designator R62_RS232_7 too long.
+Component Designator IC30_RS232_8 too long.
+Component Designator R62_RS232_8 too long.
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R71_RS232_1 too long.
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R69_RS232_1 too long.
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R71_RS232_2 too long.
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R69_RS232_2 too long.
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R71_RS232_3 too long.
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R69_RS232_3 too long.
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R71_RS232_4 too long.
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R69_RS232_4 too long.
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R71_RS232_5 too long.
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R69_RS232_5 too long.
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R71_RS232_6 too long.
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R69_RS232_6 too long.
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R71_RS232_7 too long.
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R69_RS232_7 too long.
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R71_RS232_8 too long.
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R69_RS232_8 too long.
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R90_RS232_1 too long.
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R97_RS232_1 too long.
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R90_RS232_2 too long.
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R97_RS232_2 too long.
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R90_RS232_3 too long.
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R97_RS232_3 too long.
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R90_RS232_4 too long.
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R97_RS232_4 too long.
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R90_RS232_5 too long.
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R97_RS232_5 too long.
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R90_RS232_6 too long.
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R97_RS232_6 too long.
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R90_RS232_7 too long.
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R97_RS232_7 too long.
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-7 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R90_RS232_8 too long.
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-10 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R97_RS232_8 too long.
+Component Designator J12_RS232_1 too long.
+Component Designator LED3_RS232_1 too long.
+Component Designator J12_RS232_2 too long.
+Component Designator LED3_RS232_2 too long.
+Component Designator J12_RS232_3 too long.
+Component Designator LED3_RS232_3 too long.
+Component Designator J12_RS232_4 too long.
+Component Designator LED3_RS232_4 too long.
+Component Designator J12_RS232_5 too long.
+Component Designator LED3_RS232_5 too long.
+Component Designator J12_RS232_6 too long.
+Component Designator LED3_RS232_6 too long.
+Component Designator J12_RS232_7 too long.
+Component Designator LED3_RS232_7 too long.
+Component Designator J12_RS232_8 too long.
+Component Designator LED3_RS232_8 too long.
+Component Designator LED3_RS232_1 too long.
+Component Designator R55_RS232_1 too long.
+Component Designator LED3_RS232_1 too long.
+Component Designator R62_RS232_1 too long.
+Component Designator LED3_RS232_2 too long.
+Component Designator R55_RS232_2 too long.
+Component Designator LED3_RS232_2 too long.
+Component Designator R62_RS232_2 too long.
+Component Designator LED3_RS232_3 too long.
+Component Designator R55_RS232_3 too long.
+Component Designator LED3_RS232_3 too long.
+Component Designator R62_RS232_3 too long.
+Component Designator LED3_RS232_4 too long.
+Component Designator R55_RS232_4 too long.
+Component Designator LED3_RS232_4 too long.
+Component Designator R62_RS232_4 too long.
+Component Designator LED3_RS232_5 too long.
+Component Designator R55_RS232_5 too long.
+Component Designator LED3_RS232_5 too long.
+Component Designator R62_RS232_5 too long.
+Component Designator LED3_RS232_6 too long.
+Component Designator R55_RS232_6 too long.
+Component Designator LED3_RS232_6 too long.
+Component Designator R62_RS232_6 too long.
+Component Designator LED3_RS232_7 too long.
+Component Designator R55_RS232_7 too long.
+Component Designator LED3_RS232_7 too long.
+Component Designator R62_RS232_7 too long.
+Component Designator LED3_RS232_8 too long.
+Component Designator R55_RS232_8 too long.
+Component Designator LED3_RS232_8 too long.
+Component Designator R62_RS232_8 too long.
+Warning pad shape change for IC25-2 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-2 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-3 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-3 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-60 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-60 from  to rectangular 1.28mm,0.28mm
+Component Designator TVS3_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator TVS3_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator TVS3_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator TVS3_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator TVS3_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator TVS3_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator TVS3_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator TVS3_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator TVS1_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator TVS1_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator TVS1_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator TVS1_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator TVS1_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator TVS1_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator TVS1_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator TVS1_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator TVS1_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator TVS1_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator TVS1_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator TVS1_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator TVS1_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator TVS1_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator TVS1_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator TVS1_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator TVS4_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator TVS4_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator TVS4_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator TVS4_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator TVS4_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator TVS4_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator TVS4_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator TVS4_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator TVS4_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator TVS4_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator TVS4_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator TVS4_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator TVS4_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator TVS4_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator TVS4_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator TVS4_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator TVS2_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator TVS2_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator TVS2_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator TVS2_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator TVS2_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator TVS2_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator TVS2_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator TVS2_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator TVS2_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator TVS2_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator TVS2_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator TVS2_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator TVS2_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator TVS2_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator TVS2_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator TVS2_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator TVS3_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator TVS3_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator TVS3_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator TVS3_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator TVS3_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator TVS3_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator TVS3_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator TVS3_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator IC31_RS232_1 too long.
+Component Designator IC30_RS232_1 too long.
+Component Designator IC29_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R56_RS232_1 too long.
+Component Designator C39_RS232_1 too long.
+Component Designator C119_RS232_1 too long.
+Component Designator R71_RS232_1 too long.
+Component Designator C121_RS232_1 too long.
+Component Designator R97_RS232_1 too long.
+Component Designator C45_RS232_1 too long.
+Component Designator IC15_RS232_1 too long.
+Warning pad shape change for IC15_RS232_1-8 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator C51_RS232_1 too long.
+Component Designator R70_RS232_1 too long.
+Component Designator IC31_RS232_2 too long.
+Component Designator IC30_RS232_2 too long.
+Component Designator IC29_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R56_RS232_2 too long.
+Component Designator C39_RS232_2 too long.
+Component Designator C119_RS232_2 too long.
+Component Designator R71_RS232_2 too long.
+Component Designator C121_RS232_2 too long.
+Component Designator R97_RS232_2 too long.
+Component Designator C45_RS232_2 too long.
+Component Designator IC15_RS232_2 too long.
+Warning pad shape change for IC15_RS232_2-8 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator C51_RS232_2 too long.
+Component Designator R70_RS232_2 too long.
+Component Designator IC31_RS232_3 too long.
+Component Designator IC30_RS232_3 too long.
+Component Designator IC29_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R56_RS232_3 too long.
+Component Designator C39_RS232_3 too long.
+Component Designator C119_RS232_3 too long.
+Component Designator R71_RS232_3 too long.
+Component Designator C121_RS232_3 too long.
+Component Designator R97_RS232_3 too long.
+Component Designator C45_RS232_3 too long.
+Component Designator IC15_RS232_3 too long.
+Warning pad shape change for IC15_RS232_3-8 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator C51_RS232_3 too long.
+Component Designator R70_RS232_3 too long.
+Component Designator IC31_RS232_4 too long.
+Component Designator IC30_RS232_4 too long.
+Component Designator IC29_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R56_RS232_4 too long.
+Component Designator C39_RS232_4 too long.
+Component Designator C119_RS232_4 too long.
+Component Designator R71_RS232_4 too long.
+Component Designator C121_RS232_4 too long.
+Component Designator R97_RS232_4 too long.
+Component Designator C45_RS232_4 too long.
+Component Designator IC15_RS232_4 too long.
+Warning pad shape change for IC15_RS232_4-8 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator C51_RS232_4 too long.
+Component Designator R70_RS232_4 too long.
+Component Designator IC31_RS232_5 too long.
+Component Designator IC30_RS232_5 too long.
+Component Designator IC29_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R56_RS232_5 too long.
+Component Designator C39_RS232_5 too long.
+Component Designator C119_RS232_5 too long.
+Component Designator R71_RS232_5 too long.
+Component Designator C121_RS232_5 too long.
+Component Designator R97_RS232_5 too long.
+Component Designator C45_RS232_5 too long.
+Component Designator IC15_RS232_5 too long.
+Warning pad shape change for IC15_RS232_5-8 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator C51_RS232_5 too long.
+Component Designator R70_RS232_5 too long.
+Component Designator IC31_RS232_6 too long.
+Component Designator IC30_RS232_6 too long.
+Component Designator IC29_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R56_RS232_6 too long.
+Component Designator C39_RS232_6 too long.
+Component Designator C119_RS232_6 too long.
+Component Designator R71_RS232_6 too long.
+Component Designator C121_RS232_6 too long.
+Component Designator R97_RS232_6 too long.
+Component Designator C45_RS232_6 too long.
+Component Designator IC15_RS232_6 too long.
+Warning pad shape change for IC15_RS232_6-8 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator C51_RS232_6 too long.
+Component Designator R70_RS232_6 too long.
+Component Designator IC31_RS232_7 too long.
+Component Designator IC30_RS232_7 too long.
+Component Designator IC29_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R56_RS232_7 too long.
+Component Designator C39_RS232_7 too long.
+Component Designator C119_RS232_7 too long.
+Component Designator R71_RS232_7 too long.
+Component Designator C121_RS232_7 too long.
+Component Designator R97_RS232_7 too long.
+Component Designator C45_RS232_7 too long.
+Component Designator IC15_RS232_7 too long.
+Warning pad shape change for IC15_RS232_7-8 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator C51_RS232_7 too long.
+Component Designator R70_RS232_7 too long.
+Component Designator IC31_RS232_8 too long.
+Component Designator IC30_RS232_8 too long.
+Component Designator IC29_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-16 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-1 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator R56_RS232_8 too long.
+Component Designator C39_RS232_8 too long.
+Component Designator C119_RS232_8 too long.
+Component Designator R71_RS232_8 too long.
+Component Designator C121_RS232_8 too long.
+Component Designator R97_RS232_8 too long.
+Component Designator C45_RS232_8 too long.
+Component Designator IC15_RS232_8 too long.
+Warning pad shape change for IC15_RS232_8-8 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator C51_RS232_8 too long.
+Component Designator R70_RS232_8 too long.
+Component Designator J12_RS232_1 too long.
+Component Designator IC31_RS232_1 too long.
+Component Designator TVS3_RS232_1 too long.
+Component Designator TVS1_RS232_1 too long.
+Component Designator TVS4_RS232_1 too long.
+Component Designator TVS2_RS232_1 too long.
+Component Designator IC30_RS232_1 too long.
+Component Designator IC29_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator C39_RS232_1 too long.
+Component Designator R57_RS232_1 too long.
+Component Designator C119_RS232_1 too long.
+Component Designator C121_RS232_1 too long.
+Component Designator C45_RS232_1 too long.
+Component Designator C47_RS232_1 too long.
+Component Designator C49_RS232_1 too long.
+Component Designator IC15_RS232_1 too long.
+Warning pad shape change for IC15_RS232_1-5 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_1 too long.
+Component Designator C51_RS232_1 too long.
+Component Designator TVS9_RS232_1 too long.
+Component Designator J12_RS232_2 too long.
+Component Designator IC31_RS232_2 too long.
+Component Designator TVS1_RS232_2 too long.
+Component Designator TVS3_RS232_2 too long.
+Component Designator TVS4_RS232_2 too long.
+Component Designator TVS2_RS232_2 too long.
+Component Designator IC30_RS232_2 too long.
+Component Designator IC29_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator C39_RS232_2 too long.
+Component Designator R57_RS232_2 too long.
+Component Designator C119_RS232_2 too long.
+Component Designator C121_RS232_2 too long.
+Component Designator C45_RS232_2 too long.
+Component Designator C47_RS232_2 too long.
+Component Designator C49_RS232_2 too long.
+Component Designator IC15_RS232_2 too long.
+Warning pad shape change for IC15_RS232_2-5 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_2 too long.
+Component Designator C51_RS232_2 too long.
+Component Designator TVS9_RS232_2 too long.
+Component Designator J12_RS232_3 too long.
+Component Designator IC31_RS232_3 too long.
+Component Designator TVS1_RS232_3 too long.
+Component Designator TVS3_RS232_3 too long.
+Component Designator TVS4_RS232_3 too long.
+Component Designator TVS2_RS232_3 too long.
+Component Designator IC30_RS232_3 too long.
+Component Designator IC29_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator C39_RS232_3 too long.
+Component Designator R57_RS232_3 too long.
+Component Designator C119_RS232_3 too long.
+Component Designator C121_RS232_3 too long.
+Component Designator C45_RS232_3 too long.
+Component Designator C47_RS232_3 too long.
+Component Designator C49_RS232_3 too long.
+Component Designator IC15_RS232_3 too long.
+Warning pad shape change for IC15_RS232_3-5 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_3 too long.
+Component Designator C51_RS232_3 too long.
+Component Designator TVS9_RS232_3 too long.
+Component Designator J12_RS232_4 too long.
+Component Designator IC31_RS232_4 too long.
+Component Designator TVS3_RS232_4 too long.
+Component Designator TVS1_RS232_4 too long.
+Component Designator TVS4_RS232_4 too long.
+Component Designator TVS2_RS232_4 too long.
+Component Designator IC30_RS232_4 too long.
+Component Designator IC29_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator C39_RS232_4 too long.
+Component Designator R57_RS232_4 too long.
+Component Designator C119_RS232_4 too long.
+Component Designator C121_RS232_4 too long.
+Component Designator C49_RS232_4 too long.
+Component Designator C45_RS232_4 too long.
+Component Designator C47_RS232_4 too long.
+Component Designator IC15_RS232_4 too long.
+Warning pad shape change for IC15_RS232_4-5 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_4 too long.
+Component Designator C51_RS232_4 too long.
+Component Designator TVS9_RS232_4 too long.
+Component Designator J12_RS232_5 too long.
+Component Designator IC31_RS232_5 too long.
+Component Designator TVS3_RS232_5 too long.
+Component Designator TVS1_RS232_5 too long.
+Component Designator TVS4_RS232_5 too long.
+Component Designator TVS2_RS232_5 too long.
+Component Designator IC30_RS232_5 too long.
+Component Designator IC29_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator C39_RS232_5 too long.
+Component Designator R57_RS232_5 too long.
+Component Designator C119_RS232_5 too long.
+Component Designator C121_RS232_5 too long.
+Component Designator C45_RS232_5 too long.
+Component Designator C47_RS232_5 too long.
+Component Designator TVS9_RS232_5 too long.
+Component Designator IC15_RS232_5 too long.
+Warning pad shape change for IC15_RS232_5-5 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator C49_RS232_5 too long.
+Component Designator R61_RS232_5 too long.
+Component Designator C51_RS232_5 too long.
+Component Designator J12_RS232_6 too long.
+Component Designator IC31_RS232_6 too long.
+Component Designator TVS3_RS232_6 too long.
+Component Designator TVS1_RS232_6 too long.
+Component Designator TVS4_RS232_6 too long.
+Component Designator TVS2_RS232_6 too long.
+Component Designator IC30_RS232_6 too long.
+Component Designator IC29_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator C39_RS232_6 too long.
+Component Designator R57_RS232_6 too long.
+Component Designator C119_RS232_6 too long.
+Component Designator C121_RS232_6 too long.
+Component Designator C45_RS232_6 too long.
+Component Designator C47_RS232_6 too long.
+Component Designator C49_RS232_6 too long.
+Component Designator IC15_RS232_6 too long.
+Warning pad shape change for IC15_RS232_6-5 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_6 too long.
+Component Designator C51_RS232_6 too long.
+Component Designator TVS9_RS232_6 too long.
+Component Designator J12_RS232_7 too long.
+Component Designator IC31_RS232_7 too long.
+Component Designator TVS3_RS232_7 too long.
+Component Designator TVS1_RS232_7 too long.
+Component Designator TVS4_RS232_7 too long.
+Component Designator TVS2_RS232_7 too long.
+Component Designator IC30_RS232_7 too long.
+Component Designator IC29_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator C39_RS232_7 too long.
+Component Designator R57_RS232_7 too long.
+Component Designator C119_RS232_7 too long.
+Component Designator C121_RS232_7 too long.
+Component Designator C49_RS232_7 too long.
+Component Designator C45_RS232_7 too long.
+Component Designator C47_RS232_7 too long.
+Component Designator IC15_RS232_7 too long.
+Warning pad shape change for IC15_RS232_7-5 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_7 too long.
+Component Designator C51_RS232_7 too long.
+Component Designator TVS9_RS232_7 too long.
+Component Designator J12_RS232_8 too long.
+Component Designator IC31_RS232_8 too long.
+Component Designator TVS3_RS232_8 too long.
+Component Designator TVS1_RS232_8 too long.
+Component Designator TVS4_RS232_8 too long.
+Component Designator TVS2_RS232_8 too long.
+Component Designator IC30_RS232_8 too long.
+Component Designator IC29_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-9 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-15 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-8 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-2 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator C39_RS232_8 too long.
+Component Designator R57_RS232_8 too long.
+Component Designator C119_RS232_8 too long.
+Component Designator C121_RS232_8 too long.
+Component Designator C49_RS232_8 too long.
+Component Designator C45_RS232_8 too long.
+Component Designator C47_RS232_8 too long.
+Component Designator IC15_RS232_8 too long.
+Warning pad shape change for IC15_RS232_8-5 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator R61_RS232_8 too long.
+Component Designator C51_RS232_8 too long.
+Component Designator TVS9_RS232_8 too long.
+Component Designator CON7_RS232_1 too long.
+Component Designator FR9_RS232_1 too long.
+Component Designator TVS9_RS232_1 too long.
+Component Designator CON7_RS232_1 too long.
+Component Designator FR10_RS232_1 too long.
+Component Designator TVS9_RS232_1 too long.
+Component Designator CON7_RS232_2 too long.
+Component Designator FR9_RS232_2 too long.
+Component Designator TVS9_RS232_2 too long.
+Component Designator CON7_RS232_2 too long.
+Component Designator FR10_RS232_2 too long.
+Component Designator TVS9_RS232_2 too long.
+Component Designator CON7_RS232_3 too long.
+Component Designator FR9_RS232_3 too long.
+Component Designator TVS9_RS232_3 too long.
+Component Designator CON7_RS232_3 too long.
+Component Designator FR10_RS232_3 too long.
+Component Designator TVS9_RS232_3 too long.
+Component Designator CON7_RS232_4 too long.
+Component Designator FR9_RS232_4 too long.
+Component Designator TVS9_RS232_4 too long.
+Component Designator CON7_RS232_4 too long.
+Component Designator FR10_RS232_4 too long.
+Component Designator TVS9_RS232_4 too long.
+Component Designator CON7_RS232_5 too long.
+Component Designator FR9_RS232_5 too long.
+Component Designator TVS9_RS232_5 too long.
+Component Designator CON7_RS232_5 too long.
+Component Designator FR10_RS232_5 too long.
+Component Designator TVS9_RS232_5 too long.
+Component Designator CON7_RS232_6 too long.
+Component Designator FR9_RS232_6 too long.
+Component Designator TVS9_RS232_6 too long.
+Component Designator CON7_RS232_6 too long.
+Component Designator FR10_RS232_6 too long.
+Component Designator TVS9_RS232_6 too long.
+Component Designator CON7_RS232_7 too long.
+Component Designator FR9_RS232_7 too long.
+Component Designator TVS9_RS232_7 too long.
+Component Designator CON7_RS232_7 too long.
+Component Designator FR10_RS232_7 too long.
+Component Designator TVS9_RS232_7 too long.
+Component Designator CON7_RS232_8 too long.
+Component Designator FR9_RS232_8 too long.
+Component Designator TVS9_RS232_8 too long.
+Component Designator CON7_RS232_8 too long.
+Component Designator FR10_RS232_8 too long.
+Component Designator TVS9_RS232_8 too long.
+Warning pad shape change for IC7-6 from  to rectangular 0.85mm,0.27mm
+Warning pad shape change for IC7-5 from  to rectangular 0.85mm,0.27mm
+Component Designator IC14_RS232_1 too long.
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_2 too long.
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_3 too long.
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_4 too long.
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_5 too long.
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_6 too long.
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_7 too long.
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_8 too long.
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-6 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_1 too long.
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_2 too long.
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_3 too long.
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_4 too long.
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_5 too long.
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_6 too long.
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_7 too long.
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_8 too long.
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-3 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_1 too long.
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_2 too long.
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_3 too long.
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_4 too long.
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_5 too long.
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_6 too long.
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_7 too long.
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_8 too long.
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-4 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_1 too long.
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_2 too long.
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_3 too long.
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_4 too long.
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_5 too long.
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_6 too long.
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_7 too long.
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_8 too long.
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-12 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_1 too long.
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_1 too long.
+Warning pad shape change for IC15_RS232_1-3 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC15_RS232_1 too long.
+Warning pad shape change for IC15_RS232_1-2 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC14_RS232_2 too long.
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_2 too long.
+Warning pad shape change for IC15_RS232_2-2 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC15_RS232_2 too long.
+Warning pad shape change for IC15_RS232_2-3 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC14_RS232_3 too long.
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_3 too long.
+Warning pad shape change for IC15_RS232_3-3 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC15_RS232_3 too long.
+Warning pad shape change for IC15_RS232_3-2 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC14_RS232_4 too long.
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_4 too long.
+Warning pad shape change for IC15_RS232_4-2 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC15_RS232_4 too long.
+Warning pad shape change for IC15_RS232_4-3 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC14_RS232_5 too long.
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_5 too long.
+Warning pad shape change for IC15_RS232_5-3 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC15_RS232_5 too long.
+Warning pad shape change for IC15_RS232_5-2 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC14_RS232_6 too long.
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_6 too long.
+Warning pad shape change for IC15_RS232_6-2 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC15_RS232_6 too long.
+Warning pad shape change for IC15_RS232_6-3 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC14_RS232_7 too long.
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_7 too long.
+Warning pad shape change for IC15_RS232_7-3 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC15_RS232_7 too long.
+Warning pad shape change for IC15_RS232_7-2 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC14_RS232_8 too long.
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-11 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_8 too long.
+Warning pad shape change for IC15_RS232_8-2 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC15_RS232_8 too long.
+Warning pad shape change for IC15_RS232_8-3 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC14_RS232_1 too long.
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_2 too long.
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_3 too long.
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_4 too long.
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_5 too long.
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_6 too long.
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_7 too long.
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC14_RS232_8 too long.
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-14 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC29_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator IC32_RS232_1 too long.
+Warning pad shape change for IC32_RS232_1-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_1 too long.
+Component Designator IC29_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator IC32_RS232_2 too long.
+Warning pad shape change for IC32_RS232_2-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_2 too long.
+Component Designator IC29_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator IC32_RS232_3 too long.
+Warning pad shape change for IC32_RS232_3-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_3 too long.
+Component Designator IC29_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator IC32_RS232_4 too long.
+Warning pad shape change for IC32_RS232_4-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_4 too long.
+Component Designator IC29_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator IC32_RS232_5 too long.
+Warning pad shape change for IC32_RS232_5-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_5 too long.
+Component Designator IC29_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator IC32_RS232_6 too long.
+Warning pad shape change for IC32_RS232_6-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_6 too long.
+Component Designator IC29_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator IC32_RS232_7 too long.
+Warning pad shape change for IC32_RS232_7-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_7 too long.
+Component Designator IC29_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator IC32_RS232_8 too long.
+Warning pad shape change for IC32_RS232_8-5 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_8 too long.
+Component Designator IC30_RS232_1 too long.
+Component Designator IC14_RS232_1 too long.
+Component Designator IC33_RS232_1 too long.
+Warning pad shape change for IC33_RS232_1-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_1 too long.
+Warning pad shape change for IC15_RS232_1-4 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC30_RS232_2 too long.
+Component Designator IC14_RS232_2 too long.
+Component Designator IC33_RS232_2 too long.
+Warning pad shape change for IC33_RS232_2-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_2 too long.
+Warning pad shape change for IC15_RS232_2-4 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC30_RS232_3 too long.
+Component Designator IC14_RS232_3 too long.
+Component Designator IC33_RS232_3 too long.
+Warning pad shape change for IC33_RS232_3-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_3 too long.
+Warning pad shape change for IC15_RS232_3-4 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC30_RS232_4 too long.
+Component Designator IC14_RS232_4 too long.
+Component Designator IC33_RS232_4 too long.
+Warning pad shape change for IC33_RS232_4-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_4 too long.
+Warning pad shape change for IC15_RS232_4-4 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC30_RS232_5 too long.
+Component Designator IC14_RS232_5 too long.
+Component Designator IC33_RS232_5 too long.
+Warning pad shape change for IC33_RS232_5-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_5 too long.
+Warning pad shape change for IC15_RS232_5-4 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC30_RS232_6 too long.
+Component Designator IC14_RS232_6 too long.
+Component Designator IC33_RS232_6 too long.
+Warning pad shape change for IC33_RS232_6-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_6 too long.
+Warning pad shape change for IC15_RS232_6-4 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC30_RS232_7 too long.
+Component Designator IC14_RS232_7 too long.
+Component Designator IC33_RS232_7 too long.
+Warning pad shape change for IC33_RS232_7-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_7 too long.
+Warning pad shape change for IC15_RS232_7-4 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Component Designator IC30_RS232_8 too long.
+Component Designator IC14_RS232_8 too long.
+Component Designator IC33_RS232_8 too long.
+Warning pad shape change for IC33_RS232_8-13 from rounded 1.55mm,0.4mm to rectangular 1.15mm,0.4mm
+Component Designator IC15_RS232_8 too long.
+Warning pad shape change for IC15_RS232_8-4 from rounded 1.98mm,0.53mm to rectangular 1.45mm,0.53mm
+Warning pad shape change for IC25-7 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC25-8 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-7 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC27-8 from  to rectangular 1.28mm,0.28mm
+Warning pad shape change for IC24-7 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC24-3 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC23-7 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC23-3 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC24-8 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC24-2 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC24-6 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC24-1 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC24-4 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC23-8 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC23-6 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC23-4 from  to rectangular 1.1mm,0.3mm
+Warning pad shape change for IC23-2 from  to rectangular 1.1mm,0.3mm
