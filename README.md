@@ -2,7 +2,7 @@
 
 ### Raspberry_pi_CM4_Evulation_Board
 
-1x Gigabit Ethernet
+1x Gigabit Ethernet\n
 1x 4K HDMI
 2x USB 2.0
 8x Isolated or non isolated RS232/RS485
