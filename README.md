@@ -1,6 +1,6 @@
 
 
-### Raspberry_pi_CM4_Evulation_Board
+### Raspberry_pi_CM4_Evaluation_Board
 
 1x Gigabit Ethernet   
 1x 4K HDMI  
