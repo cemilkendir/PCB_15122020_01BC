@@ -2,6 +2,8 @@
 
 ### Raspberry_pi_CM4_Evaluation_Board
 
+Raspberry pi CM4 Evaluation Board
+
 1x Gigabit Ethernet   
 1x 4K HDMI  
 2x USB 2.0  
