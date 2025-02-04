@@ -31,4 +31,4 @@ Raspberry pi CM4 Evaluation Board
 <img src="https://github.com/cemilkendir/PCB_15122020_01BC/blob/main/Photo/Resim03.PNG" height="500px" width="800px"/> 
 <img src="https://github.com/cemilkendir/PCB_15122020_01BC/blob/main/Photo/Resim04.PNG" height="500px" width="800px"/>
 <img src="https://github.com/cemilkendir/PCB_15122020_01BC/blob/main/Photo/Resim05.PNG" height="500px" width="800px"/> 
-<img src="https://github.com/cemilkendir/PCB_15122020_01BC/blob/main/Photo/Resim06.PNG" height="650px" width="800px"/> 
+<img src="https://github.com/cemilkendir/PCB_15122020_01BC/blob/main/Photo/Resim06.PNG" width="800px"/> 
